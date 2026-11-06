@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+log.txt
+.env
+dataset/
+problem_statement.md
+code/evaluation/
